@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [devcaleb.me](devcaleb.me)
 
-- 📝 I regularly write articles on [igcaleb.hashnode.dev](igcaleb.hashnode.dev)
-
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **devcaleb96@gmail.com**
@@ -20,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/igkaybangz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igkaybangz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ig caleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ig caleb" height="30" width="40" /></a>
-<a href="https://hashnode.com/@igcaleb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@igcaleb" height="30" width="40" /></a>
+<a href="https://igcaleb.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@igcaleb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
