@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [devcaleb.me](devcaleb.me)
 
-- 📝 I regularly write articles on [hashnode.com/@IgCaleb](hashnode.com/@IgCaleb)
+- 📝 I regularly write articles on [igcaleb.hashnode.dev](igcaleb.hashnode.dev)
 
 - 💬 Ask me about **Web development**
 
